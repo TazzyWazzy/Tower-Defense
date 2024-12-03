@@ -1,7 +1,6 @@
-If you can fix this, please add the following:
-- Make the characters upgradable
-- Make the characters shoot the enemy
-- Make the enemy spawn more
-- Add waves, up to 20/25
-- Give money per wave, but i think i got that, not sure
-- Make enemies follow through my map
+- Fix the upgrading system, make UI for the popup upgrade
+- Add difficulty to the game
+- Use GIF (maybe), replacing the PNG
+- If not animate
+- Update the map course, still not following through the map itself
+- General upgrade if you can
